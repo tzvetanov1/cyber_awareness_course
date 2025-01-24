@@ -1,5 +1,11 @@
 # cyber_awareness_course
 This course will equip you with the knowledge and skills to stay ahead of cybersecurity threats and protect yourself and your organization from the growing world of cyberattacks. 
+![slide_1](https://github.com/user-attachments/assets/58a10924-1ad5-4ec1-9942-72787f9f052d)
+
+![slide_2](https://github.com/user-attachments/assets/82a43f14-60c7-42e2-a446-98b7a55ad738)
+
+![slide_3](https://github.com/user-attachments/assets/3f4efec7-041b-405d-ad6b-5610e265b33a)
+
 
 <h2>👨‍💻 Materials available</h2>
 
